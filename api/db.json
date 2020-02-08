@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "title",
+      "description": "description",
+      "id": 3
+    },
+    {
+      "title": "program",
+      "description": "woot",
+      "userId": "117753109866557677286",
+      "id": 6
+    },
+    {
+      "title": "tewt1",
+      "description": "1twet",
+      "id": 7
+    },
+    {
+      "title": "tester!",
+      "description": "tester1",
+      "userId": "117753109866557677286",
+      "id": 8
+    },
+    {
+      "title": "Hello World",
+      "description": "Numbero Uno",
+      "id": 9
+    }
+  ]
+}
